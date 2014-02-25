@@ -11,4 +11,4 @@ It is part of the bsd-games package. Check your distro's repo.
 
 NO WARRANTY - security improvements and comments wanted.
 
-Recommended to install with -rwx------ permissions, of your server allows.
+Recommended to install with -rwx------ permissions, if your server allows.
